@@ -8,9 +8,9 @@ url: # the base hostname & protocol for your site
 author:
 #street_address: 1234 Somewhere Road
 #city: Nashville
-#state: TN
+state: NYC
 #zip_code: 55555
-country: United States of America
+#country: United States of America
 #phone: (716) 555-5555
 
 # homepage tiles
